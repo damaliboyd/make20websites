@@ -41,22 +41,19 @@ header {
 
 #sec01, #sec03, #sec05 {
 	background-color: #f7fcfc;
-	height: 250px;
-	padding: 50px;
+	padding: 100px;
 }
 
 #sec02 {
 	background-image: url(img/02.jpg) ;
 	background-attachment: fixed;
-	height: 250px;
-	padding: 50px;
+	padding: 100px;
 }
 
 #sec04 {
 	background-image: url(img/03.jpg) ;
 	background-attachment: fixed;
-	height: 250px;
-	padding: 50px;
+	padding: 100px;
 
 }
 
@@ -68,4 +65,5 @@ header {
 .box {
 	background-color: rgba(247, 255, 255, .5);
 	height: 100%;
+	padding: 25px;
 }
