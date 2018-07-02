@@ -1,0 +1,74 @@
+body{
+  background: #FFFFFF;
+  font-family: 'Abel', san-serif;
+  font-size: 20px;
+  color: #3B3B3B;
+}
+
+h1, h2 {
+  font-family: "impact";
+  font-weight: normal;
+  text-transform: uppercase;
+  margin: 0;
+  padding 0;
+  color: #111111;
+}
+
+#logo h1 {
+  line-height: 150px;
+  letter-spacing: 3px;
+  font-size: 7em;
+}
+
+#header-page {
+  overflow: hidden;
+  height: 600px;
+}
+
+#header {
+  overflow: hidden;
+  width: 1000px;
+  height: 150px;
+  margin: 0 auto;
+  padding: 0px 0px;
+}
+
+#banner {
+	margin: 0px auto;
+	width: 1000px;
+	height: 420px;
+}
+
+img {
+	width: 1000px;
+}
+
+#threeCols {
+	overflow: hidden;
+	width: 1000px;
+	margin: 0px auto;
+	padding: 30px 0px;
+}
+
+#threeCols h2 {
+	padding: 0px 09px 20px 0px;
+	font-size: 2em;
+}
+
+#threeCols #col1 {
+	float: left;
+	width: 30%;
+	margin: 0px 15px;
+}
+
+#threeCols #col2 {
+	float: left;
+	width: 30%;
+	margin: 0px 15px;
+}
+
+#threeCols #col3 {
+	float: left;
+	width: 30%;
+	margin: 0px 15px;
+}

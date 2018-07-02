@@ -1,0 +1,43 @@
+body {
+  background: #ff832b;
+  font-family: sans-serif;
+}
+
+.whiteText {
+  color: white;
+}
+
+h1 {
+  text-transform: uppercase;
+  font-size: 7em;
+  text-align: center;
+}
+
+h2 {
+	text-transform: uppercase;
+	text-align: center;
+}
+
+#content {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+
+}
+
+.box  {
+  width: 300px;
+  padding: 10px;
+}
+
+.fas {
+	font-size: 7em;
+}
+
+i {
+	text-align: center;
+	margin:inline-block;
+	vertical-align: center;
+	margin: 0 75
+	px;
+}
